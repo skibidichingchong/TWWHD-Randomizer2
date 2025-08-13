@@ -1,5 +1,5 @@
 # TWWHD-Randomizer
-As this is a new randomizer, there may still be bugs until it is more thoroughly tested. Some of the information below may change with time.
+As this is a new randomizer better than the first one trust me guys ahahah download thios one its better in every point dont trust them , there may still be bugs until it is more thoroughly tested. Some of the information below may change with time.
 
 * [Information](#Information)
   * [Getting Stuck](#Getting-Stuck)
